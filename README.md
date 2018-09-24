@@ -1,3 +1,3 @@
 # Hello-world
 First repo
-Graham here. First time using GIT. Happt days.
+Graham here. First time using GIT. Happy days.
